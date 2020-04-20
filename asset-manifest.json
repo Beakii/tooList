@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lisTool/static/css/main.6c17713f.chunk.css",
+    "main.js": "/lisTool/static/js/main.5419132f.chunk.js",
+    "main.js.map": "/lisTool/static/js/main.5419132f.chunk.js.map",
+    "runtime-main.js": "/lisTool/static/js/runtime-main.938cb2e1.js",
+    "runtime-main.js.map": "/lisTool/static/js/runtime-main.938cb2e1.js.map",
+    "static/js/2.5a37d1bf.chunk.js": "/lisTool/static/js/2.5a37d1bf.chunk.js",
+    "static/js/2.5a37d1bf.chunk.js.map": "/lisTool/static/js/2.5a37d1bf.chunk.js.map",
+    "index.html": "/lisTool/index.html",
+    "precache-manifest.fa03bd9200d73d8c2829f4a462b0f323.js": "/lisTool/precache-manifest.fa03bd9200d73d8c2829f4a462b0f323.js",
+    "service-worker.js": "/lisTool/service-worker.js",
+    "static/css/main.6c17713f.chunk.css.map": "/lisTool/static/css/main.6c17713f.chunk.css.map",
+    "static/js/2.5a37d1bf.chunk.js.LICENSE.txt": "/lisTool/static/js/2.5a37d1bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938cb2e1.js",
+    "static/js/2.5a37d1bf.chunk.js",
+    "static/css/main.6c17713f.chunk.css",
+    "static/js/main.5419132f.chunk.js"
+  ]
+}
